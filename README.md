@@ -127,3 +127,12 @@ ORDER BY Volume DESC
 LIMIT 10;
 ```
 Exported as: [volume_spikes.csv](volume_spikes.csv)
+
+##  Summary of Findings
+
+- **Biggest Gain:** +1683.34% on 25-05-1993  
+- **Biggest Drop:** -99.88% on 10-10-1990  
+- **Most Volatile Month:** 2000-04 with 437.73%  
+- **Highest Volume Day:** 16-02-1990 with 940,636,800 shares
+
+> This is all Based on historical CSCO stock data

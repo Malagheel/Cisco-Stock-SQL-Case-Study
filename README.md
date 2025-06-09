@@ -40,4 +40,5 @@ SELECT
     LAG(Close) OVER (ORDER BY Date) AS Prev_Close,
     ROUND(((Close - LAG(Close) OVER (ORDER BY Date)) / LAG(Close) OVER (ORDER BY Date)) * 100, 2) AS Daily_Return_Pct
 FROM stock_data;
+```
 Exported as: daily_returns.csv

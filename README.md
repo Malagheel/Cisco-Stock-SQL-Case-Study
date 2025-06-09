@@ -147,3 +147,11 @@ Exported as: [volume_spikes.csv](volume_spikes.csv)
 
 ### Monthly Volatility of Daily Returns
 ![Monthly Volatility](monthly_volatility_chart.png)
+
+---
+
+##  Repository Contents
+- `CSCO.csv` — raw dataset  
+- `.sql` scripts — all queries  
+- `.csv` exports — analysis results  
+- `README.md` — this file

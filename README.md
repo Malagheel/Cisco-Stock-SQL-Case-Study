@@ -151,7 +151,9 @@ Exported as: [volume_spikes.csv](volume_spikes.csv)
 ---
 
 ##  Repository Contents
-- `CSCO.csv` — raw dataset  
-- `.sql` scripts — all queries  
-- `.csv` exports — analysis results  
-- `README.md` — this file
+
+- `/data/` — raw and exported `.csv` files
+- `/images/` — charts and visualizations
+- `/sql/` — SQL scripts used in analysis
+- `README.md` — this documentation
+

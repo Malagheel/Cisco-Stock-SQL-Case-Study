@@ -136,3 +136,14 @@ Exported as: [volume_spikes.csv](volume_spikes.csv)
 - **Highest Volume Day:** 16-02-1990 with 940,636,800 shares
 
 > This is all Based on historical CSCO stock data
+
+# Visualizations
+
+### Monthly Average Close Price
+![Monthly Average Close](Monthly%20Average%20Close%20Price%20%E2%80%93%20Cisco.png)
+
+### Top 10 Daily Gains and Drops
+![Top Gains and Drops](top_gains_drops_chart.png)
+
+### Monthly Volatility of Daily Returns
+![Monthly Volatility](monthly_volatility_chart.png)
